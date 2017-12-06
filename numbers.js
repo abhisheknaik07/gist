@@ -14,6 +14,6 @@ function PrintNumbers(num)
 } 
 for(i=1;i<=100;i++)
 {
-console.log(PrintNumbers(i));
+        console.log(PrintNumbers(i));
 }
 
